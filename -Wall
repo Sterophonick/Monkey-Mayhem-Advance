@@ -1,0 +1,3 @@
+build/main.o: src/main.c src/..\includes\defs.h
+
+src/..\includes\defs.h:
