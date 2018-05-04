@@ -1,3 +1,6 @@
-build/main.o: src/main.c src/..\includes\defs.h
+build/main.o: src/main.c src/..\includes\defs.h \
+ src/..\includes\soundbank.h
 
 src/..\includes\defs.h:
+
+src/..\includes\soundbank.h:
